@@ -1,0 +1,548 @@
+{
+  "results": [
+    {
+      "name": "Citizens Bank - 13 Month CD",
+      "acctType": "CD",
+      "amount": [
+        "100569.05",
+        "USD"
+      ],
+      "convertedamt": "100569.05",
+      "formattedamt": "100569.05",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=5702",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=43004679&amp;itemId=17049984&amp;siteAccountId=16112999",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "5702",
+      "maskedAccountNumber": "xxxx2820"
+    },
+    {
+      "name": "Citizens Bank - Premier Checking with Interest",
+      "acctType": "checking",
+      "amount": [
+        "129405.14",
+        "USD"
+      ],
+      "convertedamt": "129405.14",
+      "formattedamt": "129405.14",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=5702",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=20962774&amp;itemId=17049984&amp;siteAccountId=16112999",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "5702",
+      "maskedAccountNumber": "xxxx0405"
+    },
+    {
+      "name": "Citizens Bank - Premier Money Market",
+      "acctType": "moneyMarket",
+      "amount": [
+        "117196.31",
+        "USD"
+      ],
+      "convertedamt": "117196.31",
+      "formattedamt": "117196.31",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=5702",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=27227461&amp;itemId=17049984&amp;siteAccountId=16112999",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "5702",
+      "maskedAccountNumber": "xxxx0250"
+    },
+    {
+      "name": "Citizens Bank - Travel a\/c",
+      "acctType": "other",
+      "amount": [
+        "3813.97",
+        "USD"
+      ],
+      "convertedamt": "3813.97",
+      "formattedamt": "3813.97",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=5702",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=43418637&amp;itemId=17049984&amp;siteAccountId=16112999",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "5702",
+      "maskedAccountNumber": "xxxx3928"
+    },
+    {
+      "name": "PNC Bank - Interest Checking",
+      "acctType": "checking",
+      "amount": [
+        "2801.57",
+        "USD"
+      ],
+      "convertedamt": "2801.57",
+      "formattedamt": "2801.57",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=2199",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=22641888&amp;itemId=18137134&amp;siteAccountId=16112972",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "2199",
+      "maskedAccountNumber": "xxxx6018"
+    },
+    {
+      "name": "Computershare (Shareholder Services) - xxxx2611",
+      "acctType": "individual",
+      "amount": [
+        "61327.5",
+        "USD"
+      ],
+      "convertedamt": "61327.5",
+      "formattedamt": "61327.5",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=12280",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=22643207&amp;itemId=18137143&amp;siteAccountId=16113004",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "12280",
+      "maskedAccountNumber": "xxxx2611"
+    },
+    {
+      "name": "Fidelity NetBenefits (401k) - Nonqualified PRAP Postx2004 Benefit",
+      "acctType": "401k",
+      "amount": [
+        "25931.4",
+        "USD"
+      ],
+      "convertedamt": "25931.4",
+      "formattedamt": "25931.4",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=806",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=29419114&amp;itemId=17140992&amp;siteAccountId=16112969",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "806",
+      "maskedAccountNumber": "xxxx8207"
+    },
+    {
+      "name": "Fidelity NetBenefits (401k) - PFIZER REST STOCK UNITS",
+      "acctType": "esopp",
+      "amount": [
+        "0.0",
+        "USD"
+      ],
+      "convertedamt": "0.0",
+      "formattedamt": "0.0",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=806",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=30565406&amp;itemId=17140992&amp;siteAccountId=16112969",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "806",
+      "maskedAccountNumber": "xxxxRU_N"
+    },
+    {
+      "name": "Fidelity NetBenefits (401k) - PFIZER SAVINGS PLAN",
+      "acctType": "401k",
+      "amount": [
+        "7425021.35",
+        "USD"
+      ],
+      "convertedamt": "7425021.35",
+      "formattedamt": "7425021.35",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=806",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=21390643&amp;itemId=17140992&amp;siteAccountId=16112969",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "806",
+      "maskedAccountNumber": "xxxx8038"
+    },
+    {
+      "name": "Fidelity NetBenefits (401k) - PFIZER STOCK OPTIONS",
+      "acctType": "esopp",
+      "amount": [
+        "257741.7",
+        "USD"
+      ],
+      "convertedamt": "257741.7",
+      "formattedamt": "257741.7",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=806",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=32085299&amp;itemId=17140992&amp;siteAccountId=16112969",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "806",
+      "maskedAccountNumber": "xxxx9375"
+    },
+    {
+      "name": "Fidelity NetBenefits (401k) - PFIZER STOCK OPTIONS",
+      "acctType": "esopp",
+      "amount": [
+        "265640.36",
+        "USD"
+      ],
+      "convertedamt": "265640.36",
+      "formattedamt": "265640.36",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=806",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=30565405&amp;itemId=17140992&amp;siteAccountId=16112969",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "806",
+      "maskedAccountNumber": "xxxxOP_O"
+    },
+    {
+      "name": "Fidelity NetBenefits (401k) - PRAP Postx1993 Benefit",
+      "acctType": "401k",
+      "amount": [
+        "6291.59",
+        "USD"
+      ],
+      "convertedamt": "6291.59",
+      "formattedamt": "6291.59",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=806",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=29419113&amp;itemId=17140992&amp;siteAccountId=16112969",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "806",
+      "maskedAccountNumber": "xxxx8207"
+    },
+    {
+      "name": "TIAA - Investments - FERRIS STATE UNIVERSITY DEFINED CONTRIBUTION RETIREMENT PLAN RAxxx0543 (RP TIAA\/CREF)",
+      "acctType": "401k",
+      "amount": [
+        "272012.65",
+        "USD"
+      ],
+      "convertedamt": "272012.65",
+      "formattedamt": "272012.65",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=22778",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=21036196&amp;itemId=17135272&amp;siteAccountId=16113025",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "22778",
+      "maskedAccountNumber": "xxxx5059"
+    },
+    {
+      "name": "TIAA - Investments - UNIVERSITY OF PITTSBURGH 401&amp;#40;A&amp;#41; RETIREMENT PLAN GRAxxx2073 (RP TIAA\/CREF)",
+      "acctType": "401a",
+      "amount": [
+        "1030261.49",
+        "USD"
+      ],
+      "convertedamt": "1030261.49",
+      "formattedamt": "1030261.49",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=22778",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=21036350&amp;itemId=17135272&amp;siteAccountId=16113025",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "22778",
+      "maskedAccountNumber": "xxxx5144"
+    },
+    {
+      "name": "TIAA - Investments - UNIVERSITY OF PITTSBURGH 401&amp;#40;A&amp;#41; RETIREMENT PLAN GRAxxx2073 (RT TIAA\/CREF)",
+      "acctType": "401a",
+      "amount": [
+        "14888.04",
+        "USD"
+      ],
+      "convertedamt": "14888.04",
+      "formattedamt": "14888.04",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=22778",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=21040208&amp;itemId=17140716&amp;siteAccountId=16113021",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "22778",
+      "maskedAccountNumber": "xxxx6662"
+    },
+    {
+      "name": "TIAA - Investments - UNIVERSITY OF PITTSBURGH 403&amp;#40;B&amp;#41; &amp;#40;SUPPLEMENTAL&amp;#41; PRE&amp;#45;2\/2015 GRAxxx2075 (RP TIAA\/CREF)",
+      "acctType": "403b",
+      "amount": [
+        "22831.39",
+        "USD"
+      ],
+      "convertedamt": "22831.39",
+      "formattedamt": "22831.39",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=22778",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=21036198&amp;itemId=17135272&amp;siteAccountId=16113025",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "22778",
+      "maskedAccountNumber": "xxxx6075"
+    },
+    {
+      "name": "TIAA - Investments - UNIVERSITY OF PITTSBURGH 403&amp;#40;B&amp;#41; PLAN &amp;#40;SUPPLEMENTAL&amp;#41; RCxxx6508",
+      "acctType": "403b",
+      "amount": [
+        "11161.37",
+        "USD"
+      ],
+      "convertedamt": "11161.37",
+      "formattedamt": "11161.37",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=22778",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=40306300&amp;itemId=17135272&amp;siteAccountId=16113025",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "22778",
+      "maskedAccountNumber": "xxxx1GP0"
+    },
+    {
+      "name": "TIAA - Investments - UNIVERSITY OF PITTSBURGH 403&amp;#40;B&amp;#41; PLAN GRAxxx2074 (RP TIAA\/CREF)",
+      "acctType": "403b",
+      "amount": [
+        "665109.31",
+        "USD"
+      ],
+      "convertedamt": "665109.31",
+      "formattedamt": "665109.31",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=22778",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=21036199&amp;itemId=17135272&amp;siteAccountId=16113025",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "22778",
+      "maskedAccountNumber": "xxxx1023"
+    },
+    {
+      "name": "TIAA - Investments - UNIVERSITY OF PITTSBURGH 403&amp;#40;B&amp;#41; PLAN GRAxxx2074 (RT TIAA\/CREF)",
+      "acctType": "403b",
+      "amount": [
+        "9928.05",
+        "USD"
+      ],
+      "convertedamt": "9928.05",
+      "formattedamt": "9928.05",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=22778",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=21040209&amp;itemId=17140716&amp;siteAccountId=16113021",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "22778",
+      "maskedAccountNumber": "xxxx3375"
+    },
+    {
+      "name": "TIAA - Investments - UNIVERSITY OF PITTSBURGH 403&amp;#40;B&amp;#41; PLAN RAxxx2074",
+      "acctType": "403b",
+      "amount": [
+        "172703.59",
+        "USD"
+      ],
+      "convertedamt": "172703.59",
+      "formattedamt": "172703.59",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=22778",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=38082674&amp;itemId=17140716&amp;siteAccountId=16113021",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "22778",
+      "maskedAccountNumber": "xxxx8257"
+    },
+    {
+      "name": "TIAA - Investments - UNIVERSITY OF PITTSBURGH 403&amp;#40;B&amp;#41; PLAN RAxxx2074",
+      "acctType": "403b",
+      "amount": [
+        "1338393.21",
+        "USD"
+      ],
+      "convertedamt": "1338393.21",
+      "formattedamt": "1338393.21",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=22778",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=38079803&amp;itemId=17135272&amp;siteAccountId=16113025",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "22778",
+      "maskedAccountNumber": "xxxx1406"
+    },
+    {
+      "name": "TIAA - Investments - UNIVERSITY OF PITTSBURGH 403&amp;#40;B&amp;#41; PLAN RCxxx2074",
+      "acctType": "403b",
+      "amount": [
+        "0.0",
+        "USD"
+      ],
+      "convertedamt": "0.0",
+      "formattedamt": "0.0",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=22778",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=40008059&amp;itemId=17135272&amp;siteAccountId=16113025",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "22778",
+      "maskedAccountNumber": "xxxx8G55"
+    },
+    {
+      "name": "TIAA - Investments - UNIVERSITY OF PITTSBURGH FROZEN DEFINED CONTRIBUTION 403&amp;#40;B&amp;#41; PLAN RAxxx2076 (RP TIAA\/CREF)",
+      "acctType": "403b",
+      "amount": [
+        "0.0",
+        "USD"
+      ],
+      "convertedamt": "0.0",
+      "formattedamt": "0.0",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=22778",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=21036197&amp;itemId=17135272&amp;siteAccountId=16113025",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "22778",
+      "maskedAccountNumber": "xxxx1406"
+    },
+    {
+      "name": "TIAA - Investments - UNIVERSITY OF PITTSBURGH FROZEN DEFINED CONTRIBUTION 403&amp;#40;B&amp;#41; PLAN RAxxx2076 (RT TIAA\/CREF)",
+      "acctType": "403b",
+      "amount": [
+        "0.0",
+        "USD"
+      ],
+      "convertedamt": "0.0",
+      "formattedamt": "0.0",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=22778",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=21040207&amp;itemId=17140716&amp;siteAccountId=16113021",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "22778",
+      "maskedAccountNumber": "xxxx8257"
+    },
+    {
+      "name": "Wells Fargo Bank - Investments - COMMAND CASH AND SWEEP XXXXXX7649",
+      "acctType": "individual",
+      "amount": [
+        "1330.23",
+        "USD"
+      ],
+      "convertedamt": "1330.23",
+      "formattedamt": "1330.23",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=25402",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=45182220&amp;itemId=29188445&amp;siteAccountId=18350041",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "25402",
+      "maskedAccountNumber": "xxxx7649"
+    },
+    {
+      "name": "Wells Fargo Bank - Investments - COMMAND CASH AND SWEEP XXXXXX7836",
+      "acctType": "individual",
+      "amount": [
+        "4082.46",
+        "USD"
+      ],
+      "convertedamt": "4082.46",
+      "formattedamt": "4082.46",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=25402",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=45182221&amp;itemId=29188445&amp;siteAccountId=18350041",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "25402",
+      "maskedAccountNumber": "xxxx7836"
+    },
+    {
+      "name": "Wells Fargo Bank - Investments - MONEY MKT BONDS WXXXX5842",
+      "acctType": "individual",
+      "amount": [
+        "272076.97",
+        "USD"
+      ],
+      "convertedamt": "272076.97",
+      "formattedamt": "272076.97",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=25402",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=45182223&amp;itemId=29188445&amp;siteAccountId=18350041",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "25402",
+      "maskedAccountNumber": "xxxx5842"
+    },
+    {
+      "name": "Wells Fargo Bank - Investments - RANDY x0&amp;#45;50 WXXXX1436",
+      "acctType": "individual",
+      "amount": [
+        "789789.81",
+        "USD"
+      ],
+      "convertedamt": "789789.81",
+      "formattedamt": "789789.81",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=25402",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=45182222&amp;itemId=29188445&amp;siteAccountId=18350041",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "25402",
+      "maskedAccountNumber": "xxxx1436"
+    },
+    {
+      "name": "Wells Fargo Bank - Investments - RP CAITLIN WXXXX0025",
+      "acctType": "individual",
+      "amount": [
+        "146697.22",
+        "USD"
+      ],
+      "convertedamt": "146697.22",
+      "formattedamt": "146697.22",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=25402",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=45182224&amp;itemId=29188445&amp;siteAccountId=18350041",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "25402",
+      "maskedAccountNumber": "xxxx0025"
+    },
+    {
+      "name": "Home Value (Zestimate&lt;sup&gt;\u00c2\u00ae&lt;\/sup&gt;) - House __ Zillow.com",
+      "amount": [
+        "468954.0",
+        "USD"
+      ],
+      "convertedamt": "468954.0",
+      "formattedamt": "468954.0",
+      "errorcode": "0",
+      "faviconurl": "https:\/\/www.wellsfargo-onestop.com\/apps\/imagecache.wellsfargo.do?icon=favicon&amp;sum_info_id=13059",
+      "link": "https:\/\/wellsfargo.mc-int.yodlee.com\/services\/srest\/wellsfargo\/v1.0\/account\/summary?itemAccountId=23392900&amp;itemId=18591555&amp;siteAccountId=16113006",
+      "percent": "0",
+      "percentage": "0",
+      "scrapedTotalBalanceUsed": "false",
+      "contentServiceId": "13059"
+    }
+  ],
+  "liabilities": [
+    null,
+    null,
+    null,
+    null
+  ]
+}
