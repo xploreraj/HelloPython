@@ -1,6 +1,6 @@
-def addNumber(fNum, lNum):
+def addNum(fNum, lNum):
     sumNum = fNum + lNum
     return sumNum
 
-print(addNumber(2, 3))
+print(addNum(2, 3))
 
