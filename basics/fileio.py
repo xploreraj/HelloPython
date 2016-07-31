@@ -8,19 +8,20 @@ lines = test_file.readlines()
 nam = ''
 itemAcc = ''
 bal = ''
-prev_amt = False
+next_line_amt = False
 amtRegex = re.compile(r'(?:^[\s]*"([\d]+[\.]?[\d]*)",$)', flags=0)
 
-print('%s\t%s\t%s' % ('item account id', 'balance', 'account name'))
+# print('%s\t%s\t%s' % ('item account id', 'balance', 'account name'))
+print('{}\t{}\t{}'.format('item_account_id', 'balance', 'account_name'))
 
 for line in lines:
     if '"amount":' in line:
-        prev_amt = True
+        next_line_amt = True
         continue
-    if prev_amt:
+    if next_line_amt:
         amount = amtRegex.search(line)
         bal = amount.group(1)
-        prev_amt = False
+        next_line_amt = False
         continue
     if '\"name\":' in line:
         nam = line.strip()[9:-2]
