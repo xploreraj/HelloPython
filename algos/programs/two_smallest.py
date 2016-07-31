@@ -1,7 +1,5 @@
 # given an array, find two smallest numbers
 
-import sys
-
 
 def print_two_smallest(arr):
     arr_size = len(arr)
