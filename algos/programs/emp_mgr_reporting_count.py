@@ -13,6 +13,11 @@ Given a dictionary that contains mapping of employee and his manager as a number
 In this example C is manager of A,
 C is also manager of B, F is manager
 of C and so on.
+
+Solution:
+1. make mgr_emplist map from given emp_mgr map
+2. for-each emp in emp list, add count against that manager in new result map (mgr_empcount)
+3. print result map
 '''
 
 
