@@ -51,5 +51,5 @@ def func(x, n):
 
 if __name__ == '__main__':
     num = [3,4,8]
-    N = 4
+    N = 2
     func(0, N)

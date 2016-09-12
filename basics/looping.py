@@ -43,3 +43,11 @@ while i <= 20:
         continue
 
     i += 1
+
+print('\n')
+i = 0
+while i < 10:
+    while i % 3 is not 0:
+        i += 1
+    print(str(i) + " ")
+    i += 1

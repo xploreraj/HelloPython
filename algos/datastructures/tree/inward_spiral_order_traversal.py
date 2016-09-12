@@ -22,9 +22,10 @@ def print_inward_spiral(node):
     top = 1
     bottom = height(node)
     # ltr = True
-    while top < bottom:
+    while top <= bottom:
         print_level(node, top, False)
-        print_level(node, bottom, True)
+        if top != bottom:
+            print_level(node, bottom, True)
         top += 1
         bottom -= 1
 
@@ -51,6 +52,6 @@ root.left.left = Node(4)
 root.left.right = Node(5)
 root.right.left = Node(6)
 root.right.right = Node(7)
-root.right.right.left = Node(8)
+# root.right.right.left = Node(8)
 
 print_inward_spiral(root)

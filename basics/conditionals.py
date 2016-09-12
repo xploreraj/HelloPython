@@ -22,3 +22,9 @@ elif not age == 30:
     print('You don\'t get a birthday')
 else:
     print('You get a birthday, yeah!')
+
+
+# ternary operator
+age=64
+stmt = "You get pension" if age > 60 else "No pension"
+print(stmt)

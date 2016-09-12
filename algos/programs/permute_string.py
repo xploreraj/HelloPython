@@ -16,7 +16,8 @@ when i==length, print (base cond)
 
 
 def swap(str_chars, i, j):
-    str_chars[i], str_chars[j] = str_chars[j], str_chars[i]
+    if i != j:
+        str_chars[i], str_chars[j] = str_chars[j], str_chars[i]
 
 
 def permute(str_chars, i, n):
@@ -30,6 +31,6 @@ def permute(str_chars, i, n):
 
 
 # driver
-string = 'ABC'
+string = 'AB'
 n = len(string)
 permute(list(string), 0, n)

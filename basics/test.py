@@ -15,3 +15,4 @@ foo(*lst, **dct)
 
 s = 'abcde'
 print(s[::-1])
+print(round(3/2))
